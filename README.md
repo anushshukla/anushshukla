@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anushshukla
 - 👀 I’m interested in developing softwares which help make our lives better
-- 🌱 I’m currently learning all different kinds of technology, to begin with Rust and Haskell.
-- 💞️ I’m looking to collaborate on any open source technology I can but first I need to improve to be worthy of contributing to such libraries
+- 🌱 I’m currently learning all different kinds of technology as per their usecases.
+- 💞️ I’m looking to collaborate on any open source technology which piques my interest and where my contribution adds value to it
 - 📫 How to reach me ... please email me at anush.shukla+github@gmail.com for anything (hopefully tech related only)
 
 <!---
