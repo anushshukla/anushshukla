@@ -14,6 +14,11 @@ There were various projects that I've worked for different organisation who have
 - SSR SPA for SEO
 - Ticketing module with complex business requirements
 
+
+| :memo:        | My versatile and diversified experience in different products and technology has empowered me to be able to work for any product using any of the technologies.       |
+|---------------|:------------------------|
+
+
 <!---
 anushshukla/anushshukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
