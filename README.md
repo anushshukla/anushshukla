@@ -15,7 +15,7 @@ There were various projects that I've worked for different organisation who have
 - Ticketing module with complex business requirements
 
 
-| :memo:        | My versatile and diversified experience in different products and technology has empowered me to be able to work for any product using any of the technologies.       |
+| :memo:        | My versatile and diversified experience in different products and technologies has empowered me to be able to work for any product using any of the technologies.       |
 |---------------|:------------------------|
 
 
