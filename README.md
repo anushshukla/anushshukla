@@ -1,10 +1,18 @@
 - 👋 Hi, I’m @anushshukla
-- 👀 I’m interested in developing softwares which help make our lives better
+- 👀 I’m interested in engineering an idea to developing softwares to help make our lives better
 - 🌱 I’m currently learning all different kinds of technology as per their usecases.
 - 💞️ I’m looking to collaborate on any open source technology which piques my interest and where my contribution adds value to it
-- 📫 How to reach me ... please email me at anush.shukla+github@gmail.com for anything (hopefully tech related only)
+- 📫 anush.shukla+github@gmail.com
 
-There were various projects that I've worked for different organisation who have private repositories and these different projects were
+# Tech Stack experience
+- [x] Database
+  - [x] SQL: [MySQL](https://www.mysql.com/) & [PostgreSQL](https://www.postgresql.org/)
+  - [x] NoSQL: [MongoDb](https://www.mongodb.com/), [Redis](https://redis.io/), [Cassandra](https://cassandra.apache.org/) & [DynamoDB](https://aws.amazon.com/dynamodb)
+- [x] SCM: [Github](https://github.com/), [Gitlab](https://gitlab.com/) and [Bitbuck](https://bitbucket.org/)
+- [x] VCS: [Git](https://git-scm.com/) and [Tortoise SVN](https://tortoisesvn.net/)
+- [x] MQ: [Kafka](https://kafka.apache.org/), [Rabbit](https://www.rabbitmq.com/) & [Redis](https://redis.io/docs/data-types/lists/)
+
+# Career Highlights
 - matchmaking algorithm for a matrimonial website
 - AI/ML based background processor for screening multi media files
 - integrations with third parties
