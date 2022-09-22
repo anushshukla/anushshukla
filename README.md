@@ -12,6 +12,10 @@
 - [x] VCS: [Git](https://git-scm.com/) and [Tortoise SVN](https://tortoisesvn.net/)
 - [x] MQ: [Kafka](https://kafka.apache.org/), [Rabbit](https://www.rabbitmq.com/) & [Redis](https://redis.io/docs/data-types/lists/)
 
+# Key achievements
+- [x] Implemented CI for checking formatting, lint and test coverage threshold
+- [x] Implemented CD to automate deployments of builds generated after source code compilation
+
 # Career Highlights
 - matchmaking algorithm for a matrimonial website
 - AI/ML based background processor for screening multi media files
