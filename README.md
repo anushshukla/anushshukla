@@ -5,12 +5,15 @@
 - 📫 anush.shukla+github@gmail.com
 
 # Tech Stack experience
-- [x] Database
-  - [x] SQL: [MySQL](https://www.mysql.com/) & [PostgreSQL](https://www.postgresql.org/)
-  - [x] NoSQL: [MongoDb](https://www.mongodb.com/), [Redis](https://redis.io/), [Cassandra](https://cassandra.apache.org/) & [DynamoDB](https://aws.amazon.com/dynamodb)
+- [x] SQL Databases: [MySQL](https://www.mysql.com/) & [PostgreSQL](https://www.postgresql.org/)
+- [x] NoSQL Databases: [MongoDb](https://www.mongodb.com/), [Redis](https://redis.io/), [Cassandra](https://cassandra.apache.org/) & [DynamoDB](https://aws.amazon.com/dynamodb)
 - [x] SCM: [Github](https://github.com/), [Gitlab](https://gitlab.com/) and [Bitbuck](https://bitbucket.org/)
 - [x] VCS: [Git](https://git-scm.com/) and [Tortoise SVN](https://tortoisesvn.net/)
 - [x] MQ: [Kafka](https://kafka.apache.org/), [Rabbit](https://www.rabbitmq.com/) & [Redis](https://redis.io/docs/data-types/lists/)
+- [x] OS: [Ubuntu](https://ubuntu.com/)
+- [x] FE: [React](https://reactjs.org/), [React Native](https://reactnative.dev/) & [Electron](https://www.electronjs.org/)
+- [x] BE: [Go](https://go.dev/), [Python](https://www.python.org/) & [Node](https://nodejs.org/)
+
 
 # Key achievements
 - [x] Implemented CI for checking formatting, lint and test coverage threshold
