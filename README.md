@@ -17,16 +17,15 @@
 # Key achievements
 - [x] Implemented CI for checking formatting, lint and test coverage threshold
 - [x] Implemented CD to automate deployments of builds generated after source code compilation using Jenkins and AWS CodeDeploy
-
-# Project Highlights
-- matchmaking algorithm for a matrimonial website
-- AI/ML based background processor for screening multi media files
-- integrations with third parties
-- public API for third parties to integrate with our ecosystem
-- payment gateways / providers
-- landing pages
-- SSR (Server-side rendering) SPA (Single-page application) for [SEO](https://g.co/kgs/UM1J39)
-- Ticketing module with complex business requirements
+- [x] Secured applications by patching up the security vulnerabilities and helped IT team to receive ISO certification for the same
+- [x] Built and delivered RTA based SPA with SSR ability for [SEO](https://g.co/kgs/UM1J39)
+- [x] Expose public API for third parties to integrate with our ecosystem
+- [x] AI/ML based background processor for screening multi media files
+- [x] Matchmaking algorithm for Recommendation engine for a matrimonial website, event platform and logistics
+- [x] AI/ML based background processor for screening multi media files
+- [x] Third party integrations including different payment gateways and user imports
+- [x] Ticketing module with complex business requirements
+- [x] Product globalization by implementing internationalization and integrating localization
 
 
 | :memo:        | My versatile and diversified experience in different products and technologies has empowered me to be able to work for any product using any of the technologies.       |
