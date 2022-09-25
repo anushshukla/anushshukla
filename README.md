@@ -31,12 +31,12 @@
 
 - [x] Tech Lead at Hubilo Softech Pvt. Ltd. from May'21 to Current
 - [x] EM at Service Lee Technologies Pvt. Ltd. from Dec'14 to July'16
-- [x] Associate Lead Engineer at People Interactive Pvt. Ltd. from May'17 to Aug'19
-- [x] Sr. Software Engineer at Zelican Infotech Pvt. Ld from Dec'14 to July'16
-- [x] Software Engineer at OSP Labs Pvt. Ltd. from Dec'14 to July'16
-<!-- - [x] Software trainee at Exa India Pvt. Ltd. from Sept'14 to Dec'16 -->
-- [x] Associate Software Engineer at Infonius Solutions Pvt. Ltd. from Nov'14 to Dec'14
-- [x] Software trainee at Exa India Pvt. Ltd. from Oct'14 to Nov'16
+- [x] SDE-III at People Interactive Pvt. Ltd. from May'17 to Aug'19
+- [x] SDE-II at Zelican Infotech Pvt. Ld from Dec'14 to July'16
+- [x] SDE-I at OSP Labs Pvt. Ltd. from Dec'14 to July'16
+<!-- - [x] SDE trainee at Exa India Pvt. Ltd. from Sept'14 to Dec'16 -->
+- [x] Associate SDE at Infonius Solutions Pvt. Ltd. from Nov'14 to Dec'14
+- [x] SDE trainee at Exa India Pvt. Ltd. from Oct'14 to Nov'16
 - [x] Technical Support Engineer apprenticeship at Cirrius Wireless Technologies from Sept'14 to Oct'14
 
 # Education
