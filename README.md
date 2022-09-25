@@ -27,6 +27,23 @@
 - [x] Ticketing module with complex business requirements
 - [x] Product [g11n](https://phrase.com/blog/localization-and-translation-glossary/globalization-g11n/) by adopting [i18n](https://www.w3.org/standards/webdesign/i18n) and implementing [l10n](https://www.w3.org/International/questions/qa-i18n#l10n) including [m17n](https://en.wiktionary.org/wiki/multilingualization) of apps i.e. supporting [t9n](https://phrase.com/blog/localization-and-translation-glossary/translation-t9n/)
 
+# Experiences
+
+- [x] Tech Lead at Hubilo Softech Pvt. Ltd. from May'21 to Current
+- [x] EM at Service Lee Technologies Pvt. Ltd. from Dec'14 to July'16
+- [x] Associate Lead Engineer at People Interactive Pvt. Ltd. from May'17 to Aug'19
+- [x] Sr. Software Engineer at Zelican Infotech Pvt. Ld from Dec'14 to July'16
+- [x] Software Engineer at OSP Labs Pvt. Ltd. from Dec'14 to July'16
+<!-- - [x] Software trainee at Exa India Pvt. Ltd. from Sept'14 to Dec'16 -->
+- [x] Associate Software Engineer at Infonius Solutions Pvt. Ltd. from Nov'14 to Dec'14
+- [x] Software trainee at Exa India Pvt. Ltd. from Oct'14 to Nov'16
+- [x] Technical Support Engineer apprenticeship at Cirrius Wireless Technologies from Sept'14 to Oct'14
+
+# Education
+- [x] Graduation: Passed with First class from [T.C.E.T](https://www.tcetmumbai.in/) ([Mumbai University](https://mu.ac.in/)), B.E.
+- [x] Intermediate Education: Passed with First class from [K.V. INS Hamla](https://hamlains.kvs.ac.in/), [C.B.S.E](https://www.cbse.gov.in/)
+- [x] Secondary Education: Passed with First class from [G.H.S.](https://ghs.edu.in/), [I.C.S.E](https://www.cisce.org/)
+
 
 | :memo:        | My versatile and diversified experience in different products and technologies has empowered me to be able to work for any product using any of the technologies.       |
 |---------------|:------------------------|
