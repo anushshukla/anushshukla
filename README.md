@@ -26,9 +26,13 @@
 - [x] NoSQL Databases: [MongoDb](https://www.mongodb.com/), [Redis](https://redis.io/), [Cassandra](https://cassandra.apache.org/) & [DynamoDB](https://aws.amazon.com/dynamodb)
 - [x] BE: [Go](https://go.dev/), [Python](https://www.python.org/) & [Node](https://nodejs.org/)
 - [x] FE: [React](https://reactjs.org/), [React Native](https://reactnative.dev/) & [Electron](https://www.electronjs.org/)
+- [x] MQ: [Kafka](https://kafka.apache.org/), [Rabbit](https://www.rabbitmq.com/) & [Redis](https://redis.io/docs/data-types/lists/)
+
+## Softwares
+- [x] PMS: Jira
+- [x] SVC: Git for SVC & Github for SCM
 - [x] SCM: [Github](https://github.com/), [Gitlab](https://gitlab.com/) and [Bitbuck](https://bitbucket.org/)
 - [x] VCS: [Git](https://git-scm.com/) and [Tortoise SVN](https://tortoisesvn.net/)
-- [x] MQ: [Kafka](https://kafka.apache.org/), [Rabbit](https://www.rabbitmq.com/) & [Redis](https://redis.io/docs/data-types/lists/)
 
 ## Work
 
