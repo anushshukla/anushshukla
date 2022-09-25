@@ -16,6 +16,7 @@
 - [x] Third party integrations including different payment gateways and user imports
 - [x] Ticketing module with complex business requirements
 - [x] Product [g11n](https://phrase.com/blog/localization-and-translation-glossary/globalization-g11n/) by adopting [i18n](https://www.w3.org/standards/webdesign/i18n) and implementing [l10n](https://www.w3.org/International/questions/qa-i18n#l10n) including [m17n](https://en.wiktionary.org/wiki/multilingualization) of apps i.e. supporting [t9n](https://phrase.com/blog/localization-and-translation-glossary/translation-t9n/)
+- [x] Implemented Atomic Design Methodology for frontend applications. 
 
 # Experiences
 
@@ -32,7 +33,7 @@
 ## Work
 
 - [x] Tech Lead at Hubilo Softech Pvt. Ltd. from May'21 to Current
-- [x] EM at Service Lee Technologies Pvt. Ltd. from Dec'14 to July'16
+- [x] Lead SDE at Service Lee Technologies Pvt. Ltd. from Dec'14 to July'16
 - [x] SDE-III at People Interactive Pvt. Ltd. from May'17 to Aug'19
 - [x] SDE-II at Zelican Infotech Pvt. Ld from Dec'14 to July'16
 - [x] SDE-I at OSP Labs Pvt. Ltd. from Dec'14 to July'16
