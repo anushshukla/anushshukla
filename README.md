@@ -25,7 +25,7 @@
 - [x] AI/ML based background processor for screening multi media files
 - [x] Third party integrations including different payment gateways and user imports
 - [x] Ticketing module with complex business requirements
-- [x] Product [g11n](https://phrase.com/blog/localization-and-translation-glossary/globalization-g11n/) by adopting [i18n](https://www.w3.org/standards/webdesign/i18n) and implementing [localization](https://www.w3.org/International/questions/qa-i18n#l10n) including [m17n](https://en.wiktionary.org/wiki/multilingualization) of apps i.e. supporting [t9n](https://phrase.com/blog/localization-and-translation-glossary/translation-t9n/)
+- [x] Product [g11n](https://phrase.com/blog/localization-and-translation-glossary/globalization-g11n/) by adopting [i18n](https://www.w3.org/standards/webdesign/i18n) and implementing [l10n](https://www.w3.org/International/questions/qa-i18n#l10n) including [m17n](https://en.wiktionary.org/wiki/multilingualization) of apps i.e. supporting [t9n](https://phrase.com/blog/localization-and-translation-glossary/translation-t9n/)
 
 
 | :memo:        | My versatile and diversified experience in different products and technologies has empowered me to be able to work for any product using any of the technologies.       |
