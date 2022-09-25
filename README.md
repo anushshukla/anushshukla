@@ -25,7 +25,7 @@
 - [x] AI/ML based background processor for screening multi media files
 - [x] Third party integrations including different payment gateways and user imports
 - [x] Ticketing module with complex business requirements
-- [x] Product globalization by implementing internationalization and integrating localization
+- [x] Product globalization by adopting internationalization and implementing localization
 
 
 | :memo:        | My versatile and diversified experience in different products and technologies has empowered me to be able to work for any product using any of the technologies.       |
