@@ -41,10 +41,10 @@
 - [x] SDE-III at People Interactive Pvt. Ltd. from May'17 to Aug'19
 - [x] SDE-II at Zelican Infotech Pvt. Ld from Dec'14 to July'16
 - [x] SDE-I at OSP Labs Pvt. Ltd. from Dec'14 to July'16
-<!-- - [x] SDE trainee at Exa India Pvt. Ltd. from Sept'14 to Dec'16 -->
-- [x] Associate SDE at Infonius Solutions Pvt. Ltd. from Nov'14 to Dec'14
-- [x] SDE trainee at Exa India Pvt. Ltd. from Oct'14 to Nov'16
-- [x] Technical Support Engineer apprenticeship at Cirrius Wireless Technologies from Sept'14 to Oct'14
+- [x] SDE trainee at Exa India Pvt. Ltd. from Sept'14 to Dec'16
+<!-- - [x] Associate SDE at Infonius Solutions Pvt. Ltd. from Nov'14 to Dec'14 -->
+<!-- - [x] SDE trainee at Exa India Pvt. Ltd. from Oct'14 to Nov'16 -->
+<!-- - [x] Technical Support Engineer apprenticeship at Cirrius Wireless Technologies from Sept'14 to Oct'14 -->
 
 # Education
 - [x] Graduation: Passed with First class from [T.C.E.T](https://www.tcetmumbai.in/) ([Mumbai University](https://mu.ac.in/)), B.E.
