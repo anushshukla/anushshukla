@@ -17,6 +17,7 @@
 - [x] Ticketing module with complex business requirements
 - [x] Product [g11n](https://phrase.com/blog/localization-and-translation-glossary/globalization-g11n/) by adopting [i18n](https://www.w3.org/standards/webdesign/i18n) and implementing [l10n](https://www.w3.org/International/questions/qa-i18n#l10n) including [m17n](https://en.wiktionary.org/wiki/multilingualization) of apps i.e. supporting [t9n](https://phrase.com/blog/localization-and-translation-glossary/translation-t9n/)
 - [x] Implemented Atomic Design Methodology for frontend applications. 
+<!-- - [ ]  cloud-based services (IaaS | SaaS | PaaS | Other XaaS).  -->
 
 # Experiences
 
