@@ -27,6 +27,7 @@
 - [x] BE: [Go](https://go.dev/), [Python](https://www.python.org/) & [Node](https://nodejs.org/)
 - [x] FE: [React](https://reactjs.org/), [React Native](https://reactnative.dev/) & [Electron](https://www.electronjs.org/)
 - [x] MQ: [Kafka](https://kafka.apache.org/), [Rabbit](https://www.rabbitmq.com/) & [Redis](https://redis.io/docs/data-types/lists/)
+- [x] Testing automation: Katalon, Selenium, Knightwatch.js & Cypress.js
 
 ## Softwares
 - [x] PMS: Jira
