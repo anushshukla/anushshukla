@@ -18,7 +18,19 @@
 - [x] Third party integrations including different payment gateways and user imports
 - [x] Ticketing module with complex business requirements
 - [x] Product [g11n](https://phrase.com/blog/localization-and-translation-glossary/globalization-g11n/) by adopting [i18n](https://www.w3.org/standards/webdesign/i18n) and implementing [l10n](https://www.w3.org/International/questions/qa-i18n#l10n) including [m17n](https://en.wiktionary.org/wiki/multilingualization) of apps i.e. supporting [t9n](https://phrase.com/blog/localization-and-translation-glossary/translation-t9n/)
-- [x] Implemented Atomic Design Methodology for frontend applications. 
+- [x] Implemented Atomic Design Methodology for frontend applications.
+- [x] Standard review following best practices
+  - [x] Code changes
+  - [x] Database design
+  - [x] Architecture 
+- [x] Team Feedback protocol
+  - [x] Soft and hard skills feedbacks sharing during performance review
+  - [x] Expectation clarification/reiteration including role/responsibility
+  - [x] Feedback transparency
+- [x] Catering to team member's aspirations and planning a growth plan
+- [x] Introductory and exploratory call as a hiring manager
+- [x] Architect technical optimial solutions with business alignment
+- [x] Successfully lead teams & manage projects to delivery projects on time with product and tech quality.
 <!-- - [ ]  cloud-based services (IaaS | SaaS | PaaS | Other XaaS).  -->
 
 # Experiences
