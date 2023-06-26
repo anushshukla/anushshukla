@@ -52,7 +52,8 @@
 
 ## Work
 
-- [x] Tech Lead at Hubilo Softech Pvt. Ltd. from May'21 to Current
+- [x] Tech Lead at GajiGesa from April'23 to Current
+- [x] Tech Lead at Hubilo Softech Pvt. Ltd. from May'21 to April'23
 - [x] Lead SDE at Service Lee Technologies Pvt. Ltd. from Dec'14 to July'16
 - [x] SDE-III at People Interactive Pvt. Ltd. from May'17 to Aug'19
 - [x] SDE-II at Zelican Infotech Pvt. Ld from Dec'14 to July'16
