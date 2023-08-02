@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @anushshukla
-- 👀 I’m interested in engineering an idea to developing softwares to help make our lives better
-- 🌱 I’m currently learning all different kinds of technology as per their usecases.
-- 💞️ I’m looking to collaborate on any open source technology which piques my interest and where my contribution adds value to it
+- 👀 I’m interested in engineering an idea to develop software to help make our lives better
+- 💞️ I’m looking to collaborate on any open-source technology that piques my interest and where my contribution adds value to it
 - 📫 anush.shukla+github@gmail.com
 - Tech Profiles
   - [CodeSandBox](https://codesandbox.io/u/anush.shukla)
+  - [LeetCode](https://leetcode.com/anushshukla/)
 
 # Intro
 
-I’m a passionate engineer with a *B.E.* in *C.S.* & have an overall *~9 years* of experience in mostly developing products for early-stage startups while building teams & resilient systems through individual contributions, leading teams & managing projects. These days, I’m exploring more about AI/ML, Blockchain, AR/VR, gaming, animation, etc. to upskill & reskill myself.
+I’m a passionate engineer with a *B.E.* in *C.S.* & have an overall *~9 years* of experience in mostly developing products for early-stage startups while building teams & resilient systems through individual contributions, leading teams & managing projects. These days, 🌱 I’m exploring more about AI/ML, Blockchain, AR/VR, gaming, animation, etc. to upskill & reskill myself.
 
 # Summary
 
@@ -23,6 +23,9 @@ Ensured **scalable & extensible codebase** by practicing best design patterns by
 Implemented cost-effective auto-scaling agnostic **cloud solutions** including cybersecurity and distributed system architecture using EC2, MSK, ElastiCache, RDS, ALB, CloudFront, CW, Shield, CodeDeploy, etc. of **AWS**. Ensured high availability by practicing best software architecture patterns & implementing observability using Prometheus & Grafanna other than APM (like New Relic) for performance tuning. Implemented **CI/CD** with Jenkins using Terraform & Ansilbe as IaC.
 
 Contributed to **team building** through hiring with higher retention & lower attrition strategizing. **Led teams** in delivering quality projects on time with complete ownership & efficient project management. Published TD (technical documentation) containing system/detailed design with effort estimation/timeline including task breakdown with milestone deliveries by using Atlassian products (Jira & Confluence). **Improved team’s productivity & performance** through mentoring, training (upskilling), continuous feedback loop, yearly appraisal rating with quarterly performance reviews on business-aligned KRA with KPI, PIP, etc.
+
+| :memo:        | My versatile and diversified experience in different products and technologies has empowered me to be able to work for any product using any of the technologies.       |
+|---------------|:------------------------|
 
 # Experience
 
@@ -62,11 +65,6 @@ Developed Magento-based e-commerce apps, WordPress-based blogging apps, & comple
 <!-- - [x] Associate SDE at Infonius Solutions Pvt. Ltd. from Nov'14 to Dec'14 -->
 <!-- - [x] SDE trainee at Exa India Pvt. Ltd. from Oct'14 to Nov'16 -->
 <!-- - [x] Technical Support Engineer apprenticeship at Cirrius Wireless Technologies from Sept'14 to Oct'14 -->
-
-
-| :memo:        | My versatile and diversified experience in different products and technologies has empowered me to be able to work for any product using any of the technologies.       |
-|---------------|:------------------------|
-
 
 <!---
 anushshukla/anushshukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
