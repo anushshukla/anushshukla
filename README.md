@@ -12,7 +12,7 @@ I’m a passionate engineer with a *B.E.* in *C.S.* & have an overall *~9 years*
 
 # Summary
 
-Built consumer-facing **PWA** using **Next.js** (React) including SSR for SEO-friendly pages & **React Native apps** following atomic design & smart/dumb component patterns with friendly UI & great UX while delivering light builds with great performance.
+Built consumer-facing **PWA** using **Next.js** (React) including SSR for SEO-friendly pages & **React Native apps** following atomic design & smart/dumb component patterns with friendly UI & great UX while delivering light build with great performance.
 
 Developed **excellent performing backend apps** following contract-first (OpenAPI Swagger using DTO) bulletproof web services in the form of SDK providing cache-supported REST & GQL API and having high throughput (> 100 RPS) & low latency (< 500 us ART) consuming low CPU utilization (< 50%) by using OST like Node.js based **Nest.js** over Fastify, Golang services for CPU intensive tasks & Python for ML to provide AI-powered features. Published SLA for Public API of the system.
 
@@ -39,7 +39,7 @@ Led & managed the entire tech team to automate/system-driven features like e-KYC
 Led the platform engineering team in enhancing the product which was for a hybrid event platform by delivering the below projects where the responsibility was the complete ownership i.e. development from scratch till delivery.
 Ticketing feature which increased revenue by 1.5x including
 Revamped analytics features which improved client retention by 10% where ELT from OLTP databases using CDC Debezium Kafka to OLAP database (ES) for aggregations
-Improved engagement by 20% by delivering game-changing features like watch party & gamification.
+Improved engagement by 20% by delivering game-changing features like Amazon Prime like watch party & gamification.
 Delivered low-code third-party API integration service which improved productivity by 5x for similar development including onsite partner API integration to make the product market fit again.
 
 ## Servify - Software Engineering Manager  [AUG’19 - APRIL’21]
